@@ -1,0 +1,26 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "axios-retry": "^3.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "date-and-time": "^0.6.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "line-by-line": "^0.1.6",
+    "mysql": "^2.15.0",
+    "replaceall": "^0.1.6",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "requestretry": "^1.12.2"
+  }
+}
